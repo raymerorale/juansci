@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Image Importer 1.0.4\n"
+"POT-Creation-Date: 2017-11-21 12:25+0530\n"
+"PO-Revision-Date: 2017-11-21 12:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-image-importer.php:92 includes/wpiimp-fb-album.php:7
+#: includes/wpiimp-fb-album.php:42
+msgid ""
+"Facebook Access Token has been expired, please do authenticate yourself "
+"again by visiting "
+msgstr ""
+
+#: wp-image-importer.php:92 includes/importer-option.php:45
+#: includes/wpiimp-fb-album.php:7 includes/wpiimp-fb-album.php:42
+#: includes/wp-image-importer-class.php:631
+msgid "WP Image Importer"
+msgstr ""
+
+#: wp-image-importer.php:92 includes/importer-option.php:52
+#: includes/wpiimp-fb-album.php:7 includes/wpiimp-fb-album.php:42
+#: includes/wp-image-importer-class.php:620
+msgid "Settings"
+msgstr ""
+
+#: wp-image-importer.php:92 includes/wpiimp-fb-album.php:7
+#: includes/wpiimp-fb-album.php:42
+msgid "Facebook"
+msgstr ""
+
+#: wp-image-importer.php:92 includes/wpiimp-fb-album.php:7
+#: includes/wpiimp-fb-album.php:42
+msgid "tab"
+msgstr ""
+
+#: lib/origin-info.php:11
+msgid "For only Non-Commercial Use and Attribution Required"
+msgstr ""
+
+#: lib/origin-info.php:12
+msgid "Only Commercial Use Allowed and Attribution Required"
+msgstr ""
+
+#: lib/origin-info.php:13
+msgid "Commercial Use Allowed and No Attribution Required"
+msgstr ""
+
+#: lib/origin-info.php:14
+msgid "All Licenses (Not recommended)"
+msgstr ""
+
+#: lib/origin-info.php:18
+msgid "Relevance"
+msgstr ""
+
+#: lib/origin-info.php:19
+msgid "Date posted, ascending"
+msgstr ""
+
+#: lib/origin-info.php:20
+msgid "Date posted, descending"
+msgstr ""
+
+#: lib/origin-info.php:21
+msgid "Date taken, ascending"
+msgstr ""
+
+#: lib/origin-info.php:22
+msgid "Date taken, descending"
+msgstr ""
+
+#: lib/origin-info.php:23
+msgid "Interestingness, descending"
+msgstr ""
+
+#: lib/origin-info.php:24
+msgid "Interestingness, ascending"
+msgstr ""
+
+#: lib/origin-info.php:28 lib/origin-info.php:34
+msgid "All"
+msgstr ""
+
+#: lib/origin-info.php:29 includes/wp-image-importer-class.php:682
+msgid "Photos"
+msgstr ""
+
+#: lib/origin-info.php:30
+msgid "Clipart"
+msgstr ""
+
+#: lib/origin-info.php:35 includes/wp-image-importer-class.php:690
+msgid "Horizontal"
+msgstr ""
+
+#: lib/origin-info.php:36 includes/wp-image-importer-class.php:694
+msgid "Vertical"
+msgstr ""
+
+#: lib/origin-info.php:40
+msgid "Čeština"
+msgstr ""
+
+#: lib/origin-info.php:41
+msgid "Dansk"
+msgstr ""
+
+#: lib/origin-info.php:42
+msgid "Deutsch"
+msgstr ""
+
+#: lib/origin-info.php:43
+msgid "English"
+msgstr ""
+
+#: lib/origin-info.php:44
+msgid "Español"
+msgstr ""
+
+#: lib/origin-info.php:45
+msgid "Français"
+msgstr ""
+
+#: lib/origin-info.php:46
+msgid "Indonesia"
+msgstr ""
+
+#: lib/origin-info.php:47
+msgid "Italiano"
+msgstr ""
+
+#: lib/origin-info.php:48
+msgid "Magyar"
+msgstr ""
+
+#: lib/origin-info.php:49
+msgid "Nederlands"
+msgstr ""
+
+#: lib/origin-info.php:50
+msgid "Norsk"
+msgstr ""
+
+#: lib/origin-info.php:51
+msgid "Polski"
+msgstr ""
+
+#: lib/origin-info.php:52
+msgid "Português"
+msgstr ""
+
+#: lib/origin-info.php:53
+msgid "Română"
+msgstr ""
+
+#: lib/origin-info.php:54
+msgid "Slovenčina"
+msgstr ""
+
+#: lib/origin-info.php:55
+msgid "Suomi"
+msgstr ""
+
+#: lib/origin-info.php:56
+msgid "Svenska"
+msgstr ""
+
+#: lib/origin-info.php:57
+msgid "Türkçe"
+msgstr ""
+
+#: lib/origin-info.php:58
+msgid "Việt"
+msgstr ""
+
+#: lib/origin-info.php:59
+msgid "ไทย"
+msgstr ""
+
+#: lib/origin-info.php:60
+msgid "Български"
+msgstr ""
+
+#: lib/origin-info.php:61
+msgid "Русский"
+msgstr ""
+
+#: lib/origin-info.php:62
+msgid "Ελληνική"
+msgstr ""
+
+#: lib/origin-info.php:63
+msgid "日本語"
+msgstr ""
+
+#: lib/origin-info.php:64
+msgid "한국어"
+msgstr ""
+
+#: lib/origin-info.php:65
+msgid "简体中文"
+msgstr ""
+
+#: includes/wpiimp-flickr.php:51 includes/wpiimp-flickr.php:57
+#: includes/wpiimp-flickr-album.php:26 includes/wpiimp-flickr-album.php:31
+#: includes/wp-image-importer-class.php:194
+#: includes/wp-image-importer-class.php:512
+msgid "Error:"
+msgstr ""
+
+#: includes/wpiimp-flickr.php:62
+msgid "No image found in this album."
+msgstr ""
+
+#: includes/wpiimp-flickr.php:69
+msgid "Error :"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:60 includes/wpiimp-facebook.php:77
+msgid ""
+"Something went wrong, couldn't saved the credentials. Please try again !!"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:83
+msgid "Authentication failed !!"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:146
+msgid "Error"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:147
+msgid "Request time out, Please try again !!"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:150
+msgid "Back"
+msgstr ""
+
+#: includes/wpiimp-facebook.php:204 includes/wpiimp-fb-album.php:38
+msgid "Graph returned an error: "
+msgstr ""
+
+#: includes/wpiimp-facebook.php:211 includes/wpiimp-fb-album.php:50
+msgid "Facebook SDK returned an error: "
+msgstr ""
+
+#: includes/wpiimp-facebook.php:219 includes/wpiimp-fb-album.php:57
+msgid "Error occured: "
+msgstr ""
+
+#: includes/wpiimp-facebook.php:224 includes/wpiimp-facebook.php:229
+#: includes/wpiimp-flickr-album.php:45
+msgid "No albums found !!"
+msgstr ""
+
+#: includes/wpiimp-suggestions.php:8
+msgid ""
+"Please help us to serve you better. How can we improve this plugin, any "
+"suggestions or ideas would be greatly appreciated."
+msgstr ""
+
+#: includes/wpiimp-suggestions.php:14
+msgid "Suggestions title"
+msgstr ""
+
+#: includes/wpiimp-suggestions.php:16
+msgid "Enter the suggestion title you're writing about"
+msgstr ""
+
+#: includes/wpiimp-suggestions.php:20
+msgid "Suggestions description"
+msgstr ""
+
+#: includes/wpiimp-suggestions.php:39
+msgid "Submit"
+msgstr ""
+
+#: includes/importer-option.php:47
+msgid "WP Image Importer plugin allows to easily import images into posts"
+msgstr ""
+
+#: includes/importer-option.php:57
+msgid "FB Albums"
+msgstr ""
+
+#: includes/importer-option.php:62
+msgid "Flickr Albums"
+msgstr ""
+
+#: includes/importer-option.php:67
+msgid "Suggestions"
+msgstr ""
+
+#: includes/importer-option.php:72
+msgid "Support"
+msgstr ""
+
+#: includes/importer-option.php:88
+msgid "Thank you for choosing WP Image Importer - plugin"
+msgstr ""
+
+#: includes/importer-option.php:91
+msgid "Feel free to contact us via email: "
+msgstr ""
+
+#: includes/importer-option.php:95
+msgid "More infomation: "
+msgstr ""
+
+#: includes/importer-option.php:114
+msgid "enter your e-mail address"
+msgstr ""
+
+#: includes/importer-option.php:115
+msgid "Know More"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:37
+msgid "FLICKR"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:40
+msgid "PIXABAY"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:43
+msgid "FACEBOOK"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:60
+msgid "Get Flikr API key from"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:62
+#: includes/wpiimp-api-authentication.php:179
+#: includes/wpiimp-api-authentication.php:316
+msgid "here"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:70
+#: includes/wpiimp-api-authentication.php:187
+msgid "API Key"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:80
+msgid "User Id"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:90
+msgid "License"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:118
+msgid "Order Images By"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:143
+#: includes/wpiimp-api-authentication.php:253
+msgid "Images Per Page"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:147
+#: includes/wpiimp-api-authentication.php:257
+msgid "Images per page"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:153
+#: includes/wpiimp-api-authentication.php:290
+msgid "Attribution"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:159
+#: includes/wpiimp-api-authentication.php:296
+msgid "Check to insert image source info with image while inserting into post"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:166
+#: includes/wpiimp-api-authentication.php:303
+msgid "Save Settings"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:177
+msgid "Get Pixabay API key from"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:197
+msgid "Image Types"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:225
+msgid "Language"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:263
+msgid "Orientation"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:312
+msgid "Facebook Credentials"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:314
+msgid "Get your credentials from "
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:324
+msgid "App-ID"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:334
+msgid "Secret Key"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:344 includes/wpiimp-fb-album.php:8
+#: includes/wpiimp-fb-album.php:43
+msgid "Authenticate"
+msgstr ""
+
+#: includes/wpiimp-api-authentication.php:346
+msgid "Authenticated"
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:8 includes/wpiimp-fb-album.php:43
+msgid "After visting the "
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:8 includes/wpiimp-fb-album.php:43
+msgid "Facebook tab"
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:8 includes/wpiimp-fb-album.php:43
+msgid " hit the "
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:8 includes/wpiimp-fb-album.php:43
+msgid "button."
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:72
+msgid "Search albums..."
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:87 includes/wpiimp-flickr-album.php:64
+msgid " Image"
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:87 includes/wpiimp-flickr-album.php:64
+msgid " Images"
+msgstr ""
+
+#: includes/wpiimp-fb-album.php:114 includes/wpiimp-flickr-album.php:91
+msgid "Insert into media library"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:108
+msgid "Mail sent succesfully."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:111
+msgid "Something went worng, please send again!!"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:130
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:134
+#: includes/wp-image-importer-class.php:139
+msgid "Sorry,an error occurred.Please try again."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:162
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:180
+msgid "Error: Invalid request."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:202
+#: includes/wp-image-importer-class.php:523
+msgid "Error: Not Able to Create Upload Directory"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:220
+#: includes/wp-image-importer-class.php:560
+msgid "Error: Failed to write file "
+msgstr ""
+
+#: includes/wp-image-importer-class.php:226
+#: includes/wp-image-importer-class.php:567
+msgid "Error: File is not an image."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:258
+#: includes/wp-image-importer-class.php:587
+msgid "Error: File attachment error"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:264
+#: includes/wp-image-importer-class.php:594
+msgid "Error: File attachment metadata error"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:299
+#: includes/wp-image-importer-class.php:335
+msgid "Settings have been updated."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:305
+#: includes/wp-image-importer-class.php:341
+msgid "It seems you haven't done any changes, settings could not be Updated!!"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:478
+msgid "Pixabay Search for "
+msgstr ""
+
+#: includes/wp-image-importer-class.php:479
+msgid "Pixabay default search."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:480
+msgid "Total record found "
+msgstr ""
+
+#: includes/wp-image-importer-class.php:481
+msgid "Flickr Search for "
+msgstr ""
+
+#: includes/wp-image-importer-class.php:482
+msgid "Flickr default search."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:483
+msgid "Next"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:484
+msgid "Prev"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:485
+msgid "No hit found."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:486
+msgid ""
+"Something went wrong, please choose either another dimensions of this image "
+"or another image !!"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:544
+msgid "This type of images are not allowed !!"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:605
+msgid "Image sucessfully inserted into media library."
+msgstr ""
+
+#: includes/wp-image-importer-class.php:686
+msgid "Cliparts"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:697
+msgid "Search"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:699
+msgid "Setting"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:712
+msgid "Small"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:715
+msgid "Medium"
+msgstr ""
+
+#: includes/wp-image-importer-class.php:718
+msgid "Large"
+msgstr ""
